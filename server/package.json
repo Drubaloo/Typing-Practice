@@ -9,5 +9,16 @@
   },
   "keywords": [],
   "author": "Dru Sanchez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.1",
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.3",
+    "graphql": "^16.8.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
